@@ -24,12 +24,12 @@ function Footer(){
             </div>
             <div>
               <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-              <p className="text-gray-400">Email: support@lambaXpress.com</p>
+              <p className="text-gray-400">Email: lambano360global@gmail.com</p>
               <p className="text-gray-400">Phone: +233 (054) 166 3677</p>
             </div>
           </div>
           <div className="mt-8 text-center text-gray-400">
-            <p>&copy; 2024 LambaXpress. All rights reserved.</p>
+            <p>&copy; 2024 Lambano360. All rights reserved.</p>
           </div>
         </div>
       </footer>

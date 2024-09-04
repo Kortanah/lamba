@@ -10,7 +10,7 @@ function Header() {
         <div className="max-md:text-center max-sm:text-center ">
             <h1 className="text-4xl lg:text-6xl md:text-4xl font-bold text-gray-800 mb-4 ">Global Money <br/> Transfer Made Easy</h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">Fast, secure, and affordable money transfers to over 15 countries</p>
-            <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-lg flex items-center justify-center  max-md:mx-auto  max-sm:mx-auto">
+            <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-lg flex items-center justify-center  max-md:mx-auto max-md:my-4  max-sm:mx-auto">
              <a href="https://wa.me/+233541663677" target="blank"> Start Transfer Now </a><ChevronRight className="ml-2 h-5 w-5" />
             </button>
          </div>
@@ -91,9 +91,9 @@ function Header() {
         <section id="about" className="py-20 bg-gradient-to-b from-blue-100">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center">
-              <h2 className="text-3xl font-bold text-gray-800 mb-4">About LambaXpress</h2>
+              <h2 className="text-3xl font-bold text-gray-800 mb-4">About Lambano360</h2>
               <p className="text-gray-600 mb-8">
-                LambaXpress is your trusted partner for global money transfers and financial services. With our cutting-edge technology and extensive network, we provide fast, secure, and affordable solutions for all your international money transfer needs.
+                Lambano360 is your trusted partner for global money transfers and financial services. With our cutting-edge technology and extensive network, we provide fast, secure, and affordable solutions for all your international money transfer needs.
               </p>
               <div className="grid md:grid-cols-3 gap-8">
                 <div>
