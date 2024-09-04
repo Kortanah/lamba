@@ -14,10 +14,10 @@ function Header() {
              <a href="https://wa.me/+233541663677" target="blank"> Start Transfer Now </a><ChevronRight className="ml-2 h-5 w-5" />
             </button>
          </div>
-         <div className="px-10">
+         <div className="px-10 overflow-hidden">
             <div className="absolute ">
                 <img className="relative bottom-0 right-40" src="/cryp.png" alt="" />
-                <img className="relative bottom-0 left-40 w-80" src="/curen.png" alt="" />
+                <img className="relative bottom-0 left-40 w-80 max-md:w-40 max-md:-z-10 max-md:left-10 " src="/curen.png" alt="" />
             </div>
             <img className="w-80" src="/co.png" alt="" />
          </div>
@@ -138,7 +138,6 @@ function Header() {
           </div>
         </section>
 
-    
   </>)
 }
 
