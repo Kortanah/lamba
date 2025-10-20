@@ -1,1 +1,7 @@
+/* enables smooth scrolling for the whole document */
+html {
+  scroll-behavior: smooth;
+  /* optional: improve touch scrolling on iOS */
+  -webkit-overflow-scrolling: touch;
+}
 
